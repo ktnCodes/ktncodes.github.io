@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "youtube-transcript": {
-      "type": "stdio",
-      "command": "python",
-      "args": ["C:/Workspace/Projects/yt-research-report/src/server.py"]
-    }
-  }
-}
